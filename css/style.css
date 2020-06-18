@@ -1,0 +1,66 @@
+body {
+    /* Background pattern from Toptal Subtle Patterns */
+    color: black;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.modal-header {
+    text-align: center;
+    padding: 0!important;
+    margin: 0 auto;
+}
+
+.modal-body {
+    text-align: center;
+    padding: 0!important;
+    margin: 0 auto!important;
+    font-size: 30px;
+}
+
+.modal-footer {
+    display: block;
+    margin: auto;
+}
+
+.row {
+    margin-top: 70px;
+    color: black;
+}
+
+.col-sm-3 {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lavender;
+    text-align: center;
+}
+
+.col-sm-6 {
+    background-color: lavenderblush;
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+.footer {
+    vertical-align: middle;
+    line-height: 50px;
+    font-size: 30px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.table td,
+.table th {
+    width: 100%;
+    padding-left: 4rem;
+    vertical-align: top;
+    padding-right: 4rem;
+    border-top: 1px solid #dee2e6;
+}
+
+.form-control {
+    font-size: 1.5rem;
+}
